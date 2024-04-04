@@ -1,0 +1,6 @@
+{
+  "server": "social.brianmorrison.com",
+  "home-timeline-length": 200,
+  "max-followings": 100,
+  "from-notifications": 1
+}
